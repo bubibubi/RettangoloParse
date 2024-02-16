@@ -14,6 +14,7 @@ namespace RettangoloParse
             r2 = Rettangolo.Parse(r.ToString());
             Console.WriteLine(r2);
 
+            Console.WriteLine(r2);
 
             Console.ReadLine();
         }
